@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeTorso
 
-- 🎥  [Youtube @codetorso](https://youtube.com/@codetorso).
+- 🎥  Youtube [@codetorso](https://youtube.com/@codetorso).
 
 - 🌱 Trying to be the best full-stack developer by 2025.
 
