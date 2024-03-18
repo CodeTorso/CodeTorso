@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @CodeTorso
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/CodeTorso/CodeTorso/blob/main/images/thumb.png)
 
-- 🎥  Youtube [@codetorso](https://youtube.com/@codetorso).
+# Hi, I’m [@CodeTorso](https://torso.wtf)
+
+ - 🎥  Youtube [@codetorso](https://youtube.com/@codetorso).
 
 - 🌱 Trying to be the best full-stack developer by 2025.
 
-- 👨‍🏭 I do freelance work in my part time.
-
-- 💞️ I do occasionaly collaborate on open Source Projects and participate in communitites.
-
-- 📫 To reach me you can send me a DM on @pruthvirajcodes on twitter. 
+- 📫 To reach me you can send me a DM on @codetorso on twitter. 
 
